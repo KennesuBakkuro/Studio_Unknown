@@ -1,2 +1,3 @@
 # Studio_Unknown
- Stuffs by studio unknown lol
+Still trying to make it readable lol doing my best as possible
+
