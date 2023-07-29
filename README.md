@@ -22,3 +22,8 @@ we paused the work for this game
 5. we will fix some code stuff
 6. more stuff coming soons
 
+# ISSUES
+
+1. Currently there's an issue with the game lists working on it
+
+# FIXED
