@@ -27,8 +27,10 @@ we paused the work for this game
 1. Currently there's an issue with the game lists working on it
 2. yupiel madness is still not functional still working on it
 
-# FIXED
-changed yml, and adjusted some stuff in the website
+# FIXED/CHANGES
+- changed the yml, and adjusted some stuff in the website
+- youtube icon has animations now yey
+- The staff links and others adjusted below
 
 # ADDED
 - added the yupiel madness comic page
