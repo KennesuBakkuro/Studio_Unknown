@@ -28,6 +28,7 @@ we paused the work for this game
 2. yupiel madness is still not functional still working on it
 
 # FIXED
+changed yml, and adjusted some stuff in the website
 
 # ADDED
 - added the yupiel madness comic page
