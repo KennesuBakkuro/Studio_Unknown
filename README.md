@@ -25,5 +25,13 @@ we paused the work for this game
 # ISSUES
 
 1. Currently there's an issue with the game lists working on it
+2. yupiel madness is still not functional still working on it
 
 # FIXED
+
+# ADDED
+- added the yupiel madness comic page
+
+# NOTES
+
+- there are still a lot of stuff to work on lol

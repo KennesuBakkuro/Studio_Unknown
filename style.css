@@ -1,6 +1,7 @@
 body{
-    background: linear-gradient(black, rgb(23, 23, 23));
+    background: black;
     text-align: center;
+    viewport-fit: auto;
 
 }
 h1{
@@ -17,7 +18,8 @@ p{
     text-align: center;
 }
 button{
-    text-shadow: 5px 5px 15px rgb(19, 17, 25);
+    text-shadow: 5px 5px 20px rgb(19, 17, 25);
+    box-shadow: 0px 0px 15px white;
     text-align: center;
 }
 .small-icon{
@@ -25,3 +27,89 @@ button{
     height: 50px;
     text-align: center;
 }
+@keyframes blackhole-rotates {
+    from {
+        transform: rotate(0);
+
+    }
+    to {
+        transform: rotate(360deg);
+
+    }
+}
+.btn {
+    width: 50px;
+    height: 50px;
+    box-shadow: 0px 0px 15px red;
+
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+ 
+    /*transition: transform 0.3s ease 0s;*/
+}
+.btn:hover {
+    transform: translateY(-15px);
+}
+/*
+}
+.btn:after {
+    background: linear-gradient(black red);
+
+}
+@keyframes shake {
+    0% {
+      transform: translate(0, 0);
+    }
+    10% {
+      transform: translate(1px, 1px);
+    }
+    20% {
+      transform: translate(-1px, -1px);
+    }
+    30% {
+      transform: translate(1px, -1px);
+    }
+    40% {
+      transform: translate(-1px, 1px);
+    }
+    50% {
+      transform: translate(0, 0);
+    }
+    100% {
+      transform: translate(0, 0);
+    }
+  }
+
+@keyframes hover {
+    0% {
+        transform: translateY(0px);
+    }
+    100% {
+        trannsform: translateY(-15px);
+    }
+}
+/*.background-image {
+    position: center;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .background-image.rotating {
+    animation: rotate 30s linear infinite;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }*/
