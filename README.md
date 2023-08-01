@@ -32,6 +32,7 @@ we paused the work for this game
 - youtube icon has animations now yey
 - The staff links and others adjusted below
 - the link to the other websites works now, yey
+- organized few stuff in the code
 
 # ADDED
 - added the yupiel madness comic page
