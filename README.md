@@ -26,6 +26,7 @@ we paused the work for this game
 
 1. Currently there's an issue with the game lists working on it (fixed)
 2. yupiel madness is still not functional still working on it (fixed)
+3. the image size and the text size is not fitting to the mobile devices (fixed)
 
 # FIXED/CHANGES
 - changed the yml, and adjusted some stuff in the website
@@ -33,6 +34,7 @@ we paused the work for this game
 - The staff links and others adjusted below
 - the link to the other websites works now, yey
 - organized few stuff in the code
+- Fixed the image and text sizes in order to fit perfectly on any devices 
 
 # ADDED
 - added the yupiel madness comic page
