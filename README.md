@@ -43,3 +43,4 @@ we paused the work for this game
 # NOTES
 
 - there are still a lot of stuff to work on lol
+- also this is my first website lol
