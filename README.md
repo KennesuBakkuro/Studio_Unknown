@@ -21,6 +21,7 @@ we paused the work for this game
 4. we will try to fix the issue in mobile version allignment
 5. we will fix some code stuff
 6. more stuff coming soons
+7. Planning to put the texts to a container
 
 # ISSUES
 
