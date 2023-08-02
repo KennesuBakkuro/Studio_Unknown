@@ -2,8 +2,9 @@ body{
     background-image: url(images/3099783.jpg);
     background: black;
     text-align: center;
-    viewport-fit: auto;
 
+    margin-right: auto;
+    margin-left: auto;
 }
 h1{
     text-shadow: 5px 5px 15px grey;

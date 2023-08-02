@@ -35,6 +35,7 @@ we paused the work for this game
 - the link to the other websites works now, yey
 - organized few stuff in the code
 - Fixed the image and text sizes in order to fit perfectly on any devices 
+- Organized the html codes working on css next
 
 # ADDED
 - added the yupiel madness comic page
