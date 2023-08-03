@@ -10,7 +10,8 @@ h1{
     text-shadow: 5px 5px 15px grey;
     text-align: center;
     color: white;
-    font-size: xx-large;
+    font-size: xx-large; 
+    padding-left: 1rem;
 }
 h2{
     text-shadow: 5px, 5px, 15px gray;
@@ -35,6 +36,15 @@ button{
     width: 50px;
     height: 50px;
     text-align: center;
+    border-color: white;
+
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+.small-icon:hover {
+    transform: translateY(-15px);
 }
 .btn {
     width: 50px;
@@ -52,3 +62,4 @@ button{
 .btn:hover {
     transform: translateY(-15px);
 }
+
