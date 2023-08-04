@@ -8,6 +8,17 @@
     display: block;
   
   }
+#yupiel{
+
+  width: 200px;
+
+  height: 200px;
+
+  border: 1px solid black;
+
+  object-fit: center;
+
+}
 body{
     background-color: black;
 }
