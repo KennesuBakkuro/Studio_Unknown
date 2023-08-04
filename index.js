@@ -21,7 +21,7 @@ document.getElementById('myButton').onclick = function(){
 
     }
     if (inputValue.includes("Yupiel")) {
-        window.location.href = "/scvv/index8.html";
+        window.location.href = "https://kennesubakkuro.github.io/Studio_Unknown/scvv/index8.html";
 
     }
 
