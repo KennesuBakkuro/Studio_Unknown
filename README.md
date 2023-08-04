@@ -40,6 +40,7 @@ we paused the work for this game
 
 # ADDED
 - added the yupiel madness comic page
+- added username inputs
 
 # NOTES
 
