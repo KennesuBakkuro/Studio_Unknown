@@ -1,0 +1,7 @@
+document.getElementById('myButton').onclick = function(){
+
+    username = document.getElementById("myText").value;
+    console.log(username);
+    document.getElementById("myLabel").innerHTML = "Hey There " + username  + "!" 
+    + " Check Out Our Cool Stuff Down Below!" ;
+}
