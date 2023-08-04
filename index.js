@@ -6,22 +6,22 @@ document.getElementById('myButton').onclick = function(){
     document.getElementById("myLabel").innerHTML = "Hey There " + username  + "!" 
     + " Check Out Our Cool Stuff Down Below!" ;
     if (inputValue.includes("Sayori")) {
-        window.location.href = "/scvv/s1.html";
+        window.location.href = "/scvv/index4.html";
       }
     if (inputValue.includes("Natsuki")) {
-        window.location.href = "/scvv/s2.html";
+        window.location.href = "/scvv/index5.html";
 
     }
     if (inputValue.includes("Yuri")) {
-        window.location.href = "/scvv/s3.html";
+        window.location.href = "/scvv/index6.html";
 
     }
     if (inputValue.includes("Monika")) {
-        window.location.href = "/scvv/s4.html";
+        window.location.href = "/scvv/index7.html";
 
     }
     if (inputValue.includes("Yupiel")) {
-        window.location.href = "/scvv/yupiel.html";
+        window.location.href = "/scvv/index8.html";
 
     }
 
