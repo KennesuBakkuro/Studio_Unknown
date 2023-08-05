@@ -28,6 +28,7 @@ we paused the work for this game
 1. Currently there's an issue with the game lists working on it (fixed)
 2. yupiel madness is still not functional still working on it (fixed)
 3. the image size and the text size is not fitting to the mobile devices (fixed)
+4. THERE'S SO MANY BUGSSSS WHAAAAAA
 
 # FIXED/CHANGES
 - changed the yml, and adjusted some stuff in the website
