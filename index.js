@@ -7,22 +7,22 @@ document.getElementById('myButton').onclick = function(){
     + " Check Out Our Cool Stuff Down Below!" ;
 
     if (inputValue.includes("Sayori")) {
-        window.location.href = "/scrap/sayori.html";
+        window.location.href = "sayori.html";
       }
     if (inputValue.includes("Natsuki")) {
-        window.location.href = "/scrap/natsuik.html";
+        window.location.href = "natsuik.html";
 
     }
     if (inputValue.includes("Yuri")) {
-        window.location.href = "/scrap/yuri.html";
+        window.location.href = "yuri.html";
 
     }
     if (inputValue.includes("Monika")) {
-        window.location.href = "/scrap/monika.html";
+        window.location.href = "monika.html";
 
     }
     if (inputValue.includes("Yupiel")) {
-        window.location.href = "/scrap/yupiel.html";
+        window.location.href = "/yupiel.html";
 
     }
     if (inputValue.includes("Mirrored")) {
