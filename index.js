@@ -25,5 +25,21 @@ document.getElementById('myButton').onclick = function(){
         window.location.href = "/scrap/yupiel.html";
 
     }
+    if (inputValue.includes("Mirrored")) {
+        document.getElementById("myLabel").innerHTML = "Oh hey Jamie!! "
+    }
+    if (inputValue.includes("x40arcade")) {
+        document.getElementById("myLabel").innerHTML = "hi, nice to meet you!! "
+    }
+    if (inputValue.includes("Bakkuro")) {
+        document.getElementsByTagName("h1")[0].innerHTML = "BAKKURO HAS AWOKEN"
+    }
+    if (inputValue.includes("Bakkuro")) {
+        document.getElementById("myLabel").innerHTML = "dun... dun... dun..."
+    }
+    if (inputValue.includes("Jamie")) {
+        document.getElementById("myLabel").innerHTML = "?"
+    }
 
-};
+
+}
