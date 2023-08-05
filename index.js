@@ -5,23 +5,24 @@ document.getElementById('myButton').onclick = function(){
     console.log(username);
     document.getElementById("myLabel").innerHTML = "Hey There " + username  + "!" 
     + " Check Out Our Cool Stuff Down Below!" ;
+
     if (inputValue.includes("Sayori")) {
-        window.location.href = "https://kennesubakkuro.github.io/Studio_Unknown/scvv/index4.html";
+        window.location.href = "/scrap/sayori.html";
       }
     if (inputValue.includes("Natsuki")) {
-        window.location.href = "https://kennesubakkuro.github.io/Studio_Unknown/scvv/index5.html";
+        window.location.href = "/scrap/natsuik.html";
 
     }
     if (inputValue.includes("Yuri")) {
-        window.location.href = "https://kennesubakkuro.github.io/Studio_Unknown/scvv/index6.html";
+        window.location.href = "/scrap/yuri.html";
 
     }
     if (inputValue.includes("Monika")) {
-        window.location.href = "https://kennesubakkuro.github.io/Studio_Unknown/scvv/index7.html";
+        window.location.href = "/scrap/monika.html";
 
     }
     if (inputValue.includes("Yupiel")) {
-        window.location.href = "https://kennesubakkuro.github.io/Studio_Unknown/scvv/index8.html";
+        window.location.href = "/scrap/yupiel.html";
 
     }
 
