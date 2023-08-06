@@ -34,18 +34,15 @@ body{
 
     text-align: center;
     color: white;
-    font-size: xx-large; 
 }
 h1{
     text-align: center;
     color: white;
-    font-size: xxx-large; 
 }
 h2{
     /*text-shadow: 2px 1px 0px #d1cb95 ;*/
     color: white;
     text-align: center;
-    font-size: x-large;
 }
 h3{
   color: white;
