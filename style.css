@@ -25,17 +25,15 @@ body{
     text-align: center;
 }
 #intro{
-    color: black;
+    color: white;
 }
 #myLabel{
-    color: black;
+    color: white;
 }
 .introduction{
-    border: 30px solid black;
-    border-style: solid;
 
     text-align: center;
-    color: black;
+    color: white;
     font-size: xx-large; 
 }
 h1{
