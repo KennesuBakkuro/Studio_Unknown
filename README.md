@@ -2,9 +2,12 @@
 Heya Unknowers!!
 Check Out Our Test Website Here!!👇👇
 
-{kennesubakkuro.github.io/studio_unknown/}
+kennesubakkuro.github.io/studio_unknown/
 
 Note: This is just a test website and im still working on it
+
+#NOTE
+-i might not update this foe a while
 
 # Sick Night Mod
 i removed the leaks stuff it's not the time yet

@@ -1,29 +1,60 @@
-body{
-    background-image: url(images/3099783.jpg);
-    background: black;
-    text-align: center;
-
-    margin-right: auto;
-    margin-left: auto;
+@keyframes color{
+    0%{
+        background-position: 0 50%;
+    }
+    50%{
+        background-position: 100% 50%;
+    }
+    100%{
+        background-position: 0 50%;
+    }
 }
-h1{
-    text-shadow: 5px 5px 15px grey;
+
+body{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(80deg,red,black,blue);
+    background-size: 200% 1000%;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    animation:color 12s ease-in infinite;
+    min-height: 100vh;
+
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
-    color: white;
+}
+#intro{
+    color: black;
+}
+#myLabel{
+    color: black;
+}
+.introduction{
+    border: 30px solid black;
+    border-style: solid;
+
+    text-align: center;
+    color: black;
     font-size: xx-large; 
 }
+h1{
+    text-align: center;
+    color: white;
+    font-size: xxx-large; 
+}
 h2{
-    text-shadow: 5px, 5px, 15px gray;
+    /*text-shadow: 2px 1px 0px #d1cb95 ;*/
     color: white;
     text-align: center;
+    font-size: x-large;
 }
 h3{
-  text-shadow: 5px, 5px, 15px gray;
   color: white;
   text-align: center;
 }
 p{
-    color: white;
+    color:#40985e;
     text-align: center;
 }
 button{

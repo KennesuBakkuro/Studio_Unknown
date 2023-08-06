@@ -6,6 +6,11 @@ document.getElementById('myButton').onclick = function(){
     document.getElementById("myLabel").innerHTML = "Hey There " + username  + "!" 
     + " Check Out Our Cool Stuff Down Below!" ;
 
+    /*this one took me a while to figure out, im not that good in javascript, but the way it works is 
+    similar to line 6, when the user input their name, myLabel id get's manipulated, so my idea is
+    when the user inputed the easter egg name i will manipulate the stuffs in the website
+    or bring them to another html*/
+
     if (inputValue.includes("Sayori")) {
         window.location.href = "sayori.html";
       }
