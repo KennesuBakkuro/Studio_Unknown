@@ -27,7 +27,7 @@ document.getElementById('myButton').onclick = function(){
 
     }
     if (inputValue.includes("Yupiel")) {
-        window.location.href = "/yupiel.html";
+        window.location.href = "https://kennesubakkuro.github.io/Studio_Unknown/yupiel.html";
 
     }
     if (inputValue.includes("Mirrored")) {
