@@ -53,15 +53,13 @@ p{
     text-align: center;
 }
 button{
-    text-shadow: 5px 5px 20px rgb(19, 17, 25);
-    box-shadow: 0px 0px 15px white;
     text-align: center;
 }
 .small-icon{
     width: 50px;
     height: 50px;
     text-align: center;
-    border-color: white;
+    
 
     transition-property: all;
     transition-duration: 0.3s;
@@ -74,7 +72,7 @@ button{
 .btn {
     width: 50px;
     height: 50px;
-    box-shadow: 0px 0px 15px red;
+    
 
     transition-property: all;
     transition-duration: 0.3s;
