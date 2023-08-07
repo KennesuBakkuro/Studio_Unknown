@@ -12,22 +12,22 @@ document.getElementById('myButton').onclick = function(){
     or bring them to another html*/
 
     if (inputValue.includes("Sayori")) {
-        window.location.href = "sayori.html";
+        window.location.href = "https://kennesubakkuro.github.io/SU_ADD/sayori.html";
       }
     if (inputValue.includes("Natsuki")) {
-        window.location.href = "natsuik.html";
+        window.location.href = "https://kennesubakkuro.github.io/SU_ADD/natsuki.html";
 
     }
     if (inputValue.includes("Yuri")) {
-        window.location.href = "yuri.html";
+        window.location.href = "https://kennesubakkuro.github.io/SU_ADD/yuri.html";
 
     }
     if (inputValue.includes("Monika")) {
-        window.location.href = "monika.html";
+        window.location.href = "https://kennesubakkuro.github.io/SU_ADD/monika.html";
 
     }
     if (inputValue.includes("Yupiel")) {
-        window.location.href = "https://kennesubakkuro.github.io/Studio_Unknown/yupiel.html";
+        window.location.href = "https://kennesubakkuro.github.io/SU_ADD/yupiel.html";
 
     }
     if (inputValue.includes("Mirrored")) {
