@@ -26,27 +26,6 @@ we paused the work for this game
 6. more stuff coming soons
 7. Planning to put the texts to a container
 
-# ISSUES
-
-1. Currently there's an issue with the game lists working on it (fixed)
-2. yupiel madness is still not functional still working on it (fixed)
-3. the image size and the text size is not fitting to the mobile devices (fixed)
-4. THERE'S SO MANY BUGSSSS WHAAAAAA
-
-# FIXED/CHANGES
-- changed the yml, and adjusted some stuff in the website
-- youtube icon has animations now yey
-- The staff links and others adjusted below
-- the link to the other websites works now, yey
-- organized few stuff in the code
-- Fixed the image and text sizes in order to fit perfectly on any devices 
-- Organized the html codes working on css next
-
-# ADDED
-- added the yupiel madness comic page
-- added username inputs
-
 # NOTES
-
-- there are still a lot of stuff to work on lol
-- also this is my first website lol
+-Im pretty much done with this website lol
+-this is my first website lol
